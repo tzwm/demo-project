@@ -1,6 +1,5 @@
 output = <<-OUT
 Using worker: worker-linux-027f0490-1.bb.travis-ci.org:travis-linux-16
-
 travis_fold:start:system_info
 [0K[33;1mBuild system information[0m
 Build language: ruby
@@ -20,7 +19,6 @@ gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
 Copyright (C) 2011 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
 [34m[1mLLVM version[0m
 clang version 3.4 (tags/RELEASE_34/final)
 Target: x86_64-unknown-linux-gnu
