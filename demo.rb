@@ -500,15 +500,12 @@ Installing execjs 2.4.0
 Installing colorator 0.1
 Installing gemoji 2.1.0
 Installing net-dns 0.8.0
-
 Gem::InstallError: public_suffix requires Ruby version >= 2.0.
 Installing ffi 1.9.8
 [31mAn error occurred while installing public_suffix (1.5.0), and Bundler cannot
 continue.
 Make sure that `gem install public_suffix -v '1.5.0'` succeeds before bundling.[0m
-
 [31;1mThe command "eval bundle install --jobs=3 --retry=3 --deployment" failed. Retrying, 2 of 3.[0m
-
 Fetching gem metadata from https://rubygems.org/........
 Using RedCloth 4.2.9
 Using json 1.8.2
@@ -524,15 +521,12 @@ Using colorator 0.1
 Using ffi 1.9.8
 Using gemoji 2.1.0
 Using net-dns 0.8.0
-
 Gem::InstallError: public_suffix requires Ruby version >= 2.0.
 Installing jekyll-gist 1.2.1
 [31mAn error occurred while installing public_suffix (1.5.0), and Bundler cannot
 continue.
 Make sure that `gem install public_suffix -v '1.5.0'` succeeds before bundling.[0m
-
 [31;1mThe command "eval bundle install --jobs=3 --retry=3 --deployment" failed. Retrying, 3 of 3.[0m
-
 Fetching gem metadata from https://rubygems.org/........
 Using i18n 0.7.0
 Using RedCloth 4.2.9
@@ -549,19 +543,15 @@ Using ffi 1.9.8
 Using gemoji 2.1.0
 Using net-dns 0.8.0
 Using jekyll-gist 1.2.1
-
 Gem::InstallError: public_suffix requires Ruby version >= 2.0.
 Installing jekyll-paginate 1.1.0
 [31mAn error occurred while installing public_suffix (1.5.0), and Bundler cannot
 continue.
 Make sure that `gem install public_suffix -v '1.5.0'` succeeds before bundling.[0m
-
 [31;1mThe command "eval bundle install --jobs=3 --retry=3 --deployment" failed 3 times.[0m
-
 travis_time:end:0edf5841:start=1429146231351154860,finish=1429146264203438496,duration=32852283636
 [0K
 [31;1mThe command "bundle install --jobs=3 --retry=3 --deployment" failed and exited with 5 during .[0m
-
 Your build has been stopped.
 OUT
 
