@@ -1,4 +1,5 @@
 output = <<-OUT
+Modified for demo
 Using worker: worker-linux-027f0490-1.bb.travis-ci.org:travis-linux-16
 travis_fold:start:system_info
 [0K[33;1mBuild system information[0m
